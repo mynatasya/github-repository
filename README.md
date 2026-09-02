@@ -8,7 +8,7 @@ Selamat datang di repository portofolio saya! Repository ini berisi dokumentasi 
 ## 📂 Ringkasan Proyek Portofolio
 
 ### 1. 📊 Data Analysis
-* [Optimasi Retensi Pelanggan Menggunakan Analisis Kohort & SQL](./projects.md)
+* [Optimasi Retensi Pelanggan Menggunakan Analisis Kohort & SQL](mynatasya/github-repository/projects.md)
 
 ### 2. ⚙️ Systems Analysis
 *(Akan diperbarui)*
@@ -26,5 +26,5 @@ Selamat datang di repository portofolio saya! Repository ini berisi dokumentasi 
 ---
 
 📫 **Hubungi Saya:**
-* **LinkedIn:** [link-linkedin-kamu](https://linkedin.com/in/mayanatasya)
+* **LinkedIn:** https://linkedin.com/in/mayanatasya
 * **Email:** mynataysa21@gmail.com
