@@ -1,0 +1,17 @@
+---
+title: "Optimasi Retensi Pelanggan Menggunakan Analisis Kohort & SQL"
+category: "Data Analysis"
+role: "Data Analyst"
+date: "2026-05-10"
+tools: ["SQL (PostgreSQL)", "Power BI", "Python (Pandas)"]
+---
+
+## 📌 Ringkasan Proyek
+Menganalisis pola churn pengguna pada aplikasi e-learning untuk mengidentifikasi titik penurunan engagement dan memberikan rekomendasi strategi retensi berbasis data.
+
+## 🎯 Masalah & Tujuan
+* **Masalah:** Tingkat churn pengguna bulanan mencapai 18%.
+* **Tujuan:** Menurunkan angka churn sebesar 5%.
+
+## 📊 Hasil Analysis & Dampak Bisnis
+* **Impact:** Implementasi sistem pengingat otomatis berhasil menurunkan churn dari 18% menjadi 12%.
